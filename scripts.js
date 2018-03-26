@@ -25,7 +25,7 @@
 // The coin denominations can be in any order.
 // Breakpoints are actually not that helpful once the recursion gets hopping.
 // Whiteboarding, diagramming or writing things out is more helpful.
-// Now that I've been out of school for a while, I'd like to get more practice with this stuff, to keep my skills fresh. 
+// I'd like to learn more of this stuff, to go beyond what I learned at MCTC. 
 // Function definitions can be nested. I may have known that before, but I don't use it often.
 // Previous knowledge confirmed: Spelling is important. Naming is hard. Infinite loops = BAD.
 
